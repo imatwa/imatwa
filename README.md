@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**imatwa/imatwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# George here🍓
+### Math & CS student · AI & Media enthusiast
 
-Here are some ideas to get you started:
+**Letovo School** student since **'24** 
+Programming since **10 yo**
+Interested in **ML, media production, data,** and **computer vision**
+**Drummer** and **percussionist**, passionate about **music**, **films** and **sprinting**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests
+-   🤖 Machine Learning & AI
+    
+-   📊 Data & Recommendation Systems
+    
+-   👁️ Computer Vision
+    
+-   🌐 Web Development
+    
+-   🎬 Media, Music & Films
+    
+### 🛠️ Tech
+
+`Python` · `scikit-learn` · `OpenCV` · `MediaPipe` · `PyQt6` · `Pygame` · `Git`
+
+----------
+
+📫 **GitHub:** [@imatwa](https://github.com/imatwa)
+
+> *I believe whatever doesn't kill you simply makes you... stranger*
